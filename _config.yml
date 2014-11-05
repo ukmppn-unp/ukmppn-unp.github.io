@@ -1,5 +1,6 @@
 # Site settings
-title: UKM PPN Universitas Nusantara PGRI Kediri
+title_head: Penalaran dan Penelitian Nusantara
+title: ppn.unpkediri.ac.id
 email: ppn@unpkediri.ac.id
 description: > # this means to ignore newlines until "baseurl:"
   UKM Penalaran dan Penelitian adalah UKM yang merupakan kelengkapan 
