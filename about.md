@@ -16,9 +16,9 @@ UKM Penalaran dan Penelitian berfungsi sebagai sarana pengembangan keilmuan dan 
 
 Contact
 =======
-[Fanpage Page][fanpage]
-[Group Page][group]
-ppn@unpkediri.ac.id
+* [Fanpage Page][fanpage]
+* [Group Page][group]
+* ppn@unpkediri.ac.id
 
 
 [fanpage]: http://https://www.facebook.com/ukm.ppn.unpkediri
