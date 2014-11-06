@@ -2,8 +2,8 @@
 layout: post
 title:  "Aboute Me"
 description: "Organisasi Ini Bernama Unit Kegiatan Mahasiswa Penalaran dan Penelitian Nusantara. UKM Penalaran dan Penelitian adalah UKM yang merupakan kelengkapan non Struktural di Universitas Nusantara PGRI Kediri dan Melaksanakan tugas penelitian yang berada dibawah koordinasi Lembaga Penelitian."
-date:   2014-11-05 01:28:45
-categories: jekyll update
+date:   2014-11-06 15:33:00
+categories: update
 author: M. Saiful Mukharom
 ---
 Overview
@@ -23,5 +23,5 @@ Contact
 * ppn@unpkediri.ac.id
 
 
-[fanpage]: http://https://www.facebook.com/ukm.ppn.unpkediri
+[fanpage]: https://www.facebook.com/ukm.ppn.unpkediri
 [group]: https://www.facebook.com/groups/446320655454046/

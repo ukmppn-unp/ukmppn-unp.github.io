@@ -21,5 +21,5 @@ Contact
 * ppn@unpkediri.ac.id
 
 
-[fanpage]: http://https://www.facebook.com/ukm.ppn.unpkediri
+[fanpage]: https://www.facebook.com/ukm.ppn.unpkediri
 [group]: https://www.facebook.com/groups/446320655454046/
