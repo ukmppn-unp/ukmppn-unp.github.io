@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transformation Publish"
-description: "Jangan berhenti melakukan penelitian, bukan lulus kuliah berhenti penelitian akan tetapi, **meneruskan penelitan.**"
+description: "Suatu saat jika kalian lulus kuliah dengan membawa gelar sarjana, jangan berhenti melakukan penelitian, bukan lulus kuliah berhenti penelitian akan tetapi, meneruskan penelitan."
 date:   2014-11-06 22:10:00
 categories: update
 author: M. Saiful Mukharom
