@@ -6,8 +6,7 @@ date: 2014-11-05 15:12:45
 author: M. Saiful Mukharom
 ---
 
-Struktur Kepengurusan
-=====================
+## Struktur Kepengurusan
 
 ### Ketua
 * Krisnawati

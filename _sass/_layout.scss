@@ -8,14 +8,20 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    background: url(../images/header.png) 0 0 repeat-x;
 }
 
 .site-title {
     font-size: 26px;
     line-height: 56px;
-    letter-spacing: -1px;
+    letter-spacing: -2px;
     margin-bottom: 0;
     float: left;
+    /**
+     * Edited
+     */
+    font-family: 'HandOfSeanRegular';
+    color: #333;
 
     &,
     &:visited {
@@ -75,12 +81,12 @@
         }
 
         &:hover .trigger {
-            display: block;
+            display: inline-block;
             padding-bottom: 5px;
         }
 
         .page-link {
-            display: block;
+            display: inline-block;
             padding: 5px 10px;
         }
     }
@@ -94,6 +100,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background: #f5f5f5;
 }
 
 .footer-heading {
@@ -163,6 +170,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background: url('../images/project-paper.png');
 }
 
 .page-heading {
@@ -234,3 +242,21 @@
         }
     }
 }
+
+@font-face {
+    font-family: HandOfSeanRegular;
+    src: url('../fonts/eot/handsean-webfont.eot');
+    src: local('☺'),
+         url('../fonts/ttf/handsean-webfont.ttf') format('truetype'),
+         url('../fonts/svg/handsean-webfont.svg#webfontV6q8jOTr') format('svg'),
+         url('../fonts/woff/handsean-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal; }
+
+@font-face {
+    font-family: Politica;
+    src: url('../fonts/eot/style_154046.eot');
+    src: local('☺'),
+         url('../fonts/otf/style_154046.otf') format('opentype'),
+         url('../fonts/svg/style_154046.svg#Politica') format('svg'),
+         url('../fonts/woff/style_154046.woff') format('woff'); }

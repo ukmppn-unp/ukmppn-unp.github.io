@@ -98,7 +98,10 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        color: none;
+        /**
+         * text-decoration: underline;
+         */
     }
 }
 
@@ -118,6 +121,14 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+}
+
+/**
+ * hr
+ */
+hr {
+    border: none;
+    border-bottom:1px solid #ccc;
 }
 
 
