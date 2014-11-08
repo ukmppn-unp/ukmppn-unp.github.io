@@ -2,5 +2,5 @@
 source "https://rubygems.org"
 
 # gem "rails"
-require 'rbconfig'
-gem 'wdm'
+gem "rails"
+gem "wdm"
