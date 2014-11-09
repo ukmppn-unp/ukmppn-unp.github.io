@@ -13,4 +13,8 @@ github_username:  ukmppn-unp
 
 # Build settings
 markdown: kramdown
+kramdown: true
 highlighter: rouge
+pygmnets: true
+# permalink: /:year/:month/:title.html
+timezone: Asia/Jakarta

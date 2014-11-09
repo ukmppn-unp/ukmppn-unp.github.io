@@ -43,6 +43,7 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
+    border: 1px solid #4c82a5;
 }
 
 
@@ -213,4 +214,27 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+
+
+/**
+ * Tables
+ */
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+th {
+    height: 50%;
+}
+
+td {
+    height: 50%;
+    vertical-align: botton;
+    padding: 5px;
+}
+
+table, th, td {
+    border: 1px solid #4c82a5;
 }

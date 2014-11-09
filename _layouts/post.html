@@ -9,7 +9,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    {{ content }}
+    {{ content | markdownify }}
   </article>
 
 </div><hr width="300px" align="left"><p class="post-meta" align="left">Dipostkan oleh: {% if page.author %}{{page.author}}{% endif %}</p>
