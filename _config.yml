@@ -18,3 +18,5 @@ highlighter: rouge
 pygmnets: true
 # permalink: /:year/:month/:title.html
 timezone: Asia/Jakarta
+
+gem 'github-pages'
