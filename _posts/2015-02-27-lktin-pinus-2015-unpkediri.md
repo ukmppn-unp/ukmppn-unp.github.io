@@ -3,7 +3,7 @@ layout: post
 title:  "LKTIN 2015 Pinus UNP Kediri"
 excerpt: "Mahasiswa merupakan produk dari pendidikan tinggi yang menghasilkan lulusan yang mempunyai sikap kecendekiawanan. Sikap tersebut meliputi sikap sebagai penemu, pemadu, penerap, serta sebagai pengembang IPTEKS. Untuk itu, mahasiswa yang merupakan salah satu kelompok masyarakat ilmiah harus mempunyai ciri kehidupan akademis yang dinamis."
 modified: 
-author: saifulindo
+author: admin_ppn
 tags: []
 ---
 
@@ -23,3 +23,4 @@ tags: []
 ## Download Panduan dan Formulir
 
 * Formulir download [disini](/files/formulir-lktin-pinus.docx)
+* Panduan download [disini](/files/panduan-lktin-pinus.pdf)
