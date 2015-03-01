@@ -8,13 +8,23 @@ saifulindo:
   avatar: bio-photo-2.jpg
   twitter: saifulindo
   google:
-    plus: 
+    plus: +SyaifullAlBandary
+  github: saifulindo 
 
 admin_ppn:
   name: Admin PPN
   email: ppn@unpkediri.ac.id
   bio: "UKM Penalaran dan Penilitian UNP Kediri"
-  avatar: bio-photo.jpg
+  avatar: logo-ppn.jpg
+  twitter: 
+  google:
+    plus: 
+
+admin_pinus:
+  name: Admin Pinus
+  email: pinusunpkediri@gmail.com
+  bio: "Pekan Ilmiah Nusantara"
+  avatar: logo-pinus.png
   twitter: 
   google:
     plus: 

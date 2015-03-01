@@ -27,10 +27,10 @@ kramdown:
 # Site owner
 owner:
   name: PPN UNP Kediri
-  avatar: bio-photo.jpg
+  avatar: logo-ppn.jpg
   bio: "UKM Penalaran dan Penelitian Universitas Nusantara PGRI Kediri."
   email: ppn@unpkediri.ac.id
-  disqus-shortname: 
+  disqus-shortname: 'ukmppn'
   twitter: #username
   facebook: ukm.ppn.unpkediri
   google:
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: ppnunp
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
