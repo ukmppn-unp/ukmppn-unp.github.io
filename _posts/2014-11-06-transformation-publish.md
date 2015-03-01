@@ -20,3 +20,5 @@ Yah mungkin *heading* diatas membingungkan, al-Imam asy-Syafi'i mengatakan :
 > Jika kamu tidak sanggup menahan lelahnya belajar, maka kamu harus sanggup menahan perihnya kebodohan
 
 Suatu saat jika kalian lulus kuliah dengan membawa gelar sarjana, jangan berhenti melakukan penelitian, bukan lulus kuliah berhenti penelitian akan tetapi, **meneruskan penelitan.**
+
+![research](../images/research.jpg)
