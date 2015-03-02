@@ -3,7 +3,7 @@ layout: page
 title: Struktur Organisasi
 tags: [about, struktur, organisasi, ppn unp]
 modified: 2015-02-28T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
