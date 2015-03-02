@@ -23,7 +23,7 @@ comments: true
 
 ## Download Panduan dan Formulir
 
-* Formulir pendaftaran LKTIN download [disini](/files/formulir-lktin.pdf)
+* Formulir pendaftaran LKTIN download [disini](/files/formulir-lktin.docx)
 * Panduan LKTIN download [disini](/files/panduan-lktin-pinus.pdf)
-* Formulir pendaftaram poster ilmiah download [disini](/files/formulir-poster.pdf)
+* Formulir pendaftaram poster ilmiah download [disini](/files/formulir-poster.docx)
 * Panduan poster ilmiah download [disini](https://www.dropbox.com/s/g8qar0hbqpqd3s0/PANDUAN%20lomba%20poster.pdf?dl=0)
