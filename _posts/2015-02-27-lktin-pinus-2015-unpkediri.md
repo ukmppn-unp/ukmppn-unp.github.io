@@ -26,4 +26,13 @@ comments: true
 * Formulir pendaftaran LKTIN download [disini](/files/formulir-lktin.docx)
 * Panduan LKTIN download [disini](/files/panduan-lktin-pinus.pdf)
 * Formulir pendaftaram poster ilmiah download [disini](/files/formulir-poster.docx)
-* Panduan poster ilmiah download [disini](https://www.dropbox.com/s/g8qar0hbqpqd3s0/PANDUAN%20lomba%20poster.pdf?dl=0)
+* Panduan poster ilmiah download [disini](https://www.dropbox.com/s/j5ltfuily54w3sn/PANDUAN%20Lomba%20Poster%20Ilmiah%20PINUS%202015(2).rar?dl=0)
+
+## Fromat Abstrak 
+
+Tahap awal seleksi LKTIN PINUS sesuai format abstrak, bisa dikirim ke `pinusunpkediri@gmail.com`
+
+###  Ketentuan Abstrak
+
+Abstrak berisi tidak lebih dari 500 kata dan merupakan intisari seluruh tulisan yang meliputi: latar belakang, tujuan, metode, hasil dan kesimpulan. Di bawah abstrak disertakan 3-5 kata kunci. Ditulis dengan menggunakan Ms. Word Times New Roman, ukuran 12, dan spasi tunggal.Format abstrak dapat di download [disini](/files/pedoman-abstrak.pdf)
+
