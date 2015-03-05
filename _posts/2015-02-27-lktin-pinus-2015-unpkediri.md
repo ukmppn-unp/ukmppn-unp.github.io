@@ -29,13 +29,13 @@ Tahap awal seleksi LKTIN PINUS sesuai format abstrak, bisa dikirim ke `pinusunpk
 
 #### Waktu Pelaksanaan
 
-1. Penerimaan Abstrak 26 Februari - 5 Maret 2015
-1. Pengumuman Abstrak yang Lolos  6 Maret 2015
-1. Penerimaan Berkas Karya Tulis Soft Copy 6-14 Maret 2015
-1. Penilaian Karya Tulis 15-16 Maret 2015
-1. Pengumuman Finalis yang lolos 17 Maret 2015
-1. Registrasi dan Pembayaran finalis 17- 20 Maret 2015
-1. Grand Final 22 Maret 2015
+1. Penerimaan Abstrak 26 Februari - 14 Maret 2015
+1. Pengumuman Abstrak yang Lolos  17 Maret 2015
+1. Penerimaan Berkas Karya Tulis Soft Copy 17-21 Maret 2015
+1. Penilaian Karya Tulis 17-23 Maret 2015
+1. Pengumuman Finalis yang lolos 22-23 Maret 2015
+1. Registrasi dan Pembayaran finalis 24 Maret 2015
+1. Grand Final 29 Maret 2015
 
 ### 2. Lomba Poster (Khusus Mahasiswa UNP Kediri)
 
@@ -44,11 +44,11 @@ Tahap awal seleksi LKTIN PINUS sesuai format abstrak, bisa dikirim ke `pinusunpk
 
 #### Waktu Pelaksanaan
 
-1. Penerimaan berkas karya tulis *hardcopy* ke kantor UKM PPN 26 Februari- 14 Maret 2015
-1. Penilaian Karya tulis 15 - 16 Maret 2015
-1. Pengumuman Finalis 17 Maret 2015
-1. Pengiriman desain berupa Hardcopy dan softcopy poster 18-20 Maret 2015
-1. Grand Final 21 Maret 2015
+1. Penerimaan berkas karya tulis *hardcopy* ke kantor UKM PPN 26 Februari- 21 Maret 2015
+1. Penilaian Karya tulis 22 - 23 Maret 2015
+1. Pengumuman Finalis 24 Maret 2015
+1. Pengiriman desain berupa Hardcopy dan softcopy poster 24-27 Maret 2015
+1. Grand Final 28 Maret 2015
 
 ### Contact Person
 
