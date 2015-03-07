@@ -59,7 +59,7 @@ Tahap awal seleksi LKTIN PINUS sesuai format abstrak, bisa dikirim ke `pinusunpk
 
 | No. | Kegiatan | Waktu |
 |:--------|:-------|:--------|
-| 1. | Penerimaan berkas karya tulis *hardcopy* ke kantor UKM PPN   | 26 26 Februari- 21 Maret 2015 |
+| 1. | Penerimaan berkas karya tulis *hardcopy* ke kantor UKM PPN   | 26 Februari- 21 Maret 2015 |
 |----
 | 2. | Penilaian Karya tulis | 22 - 23 Maret 2015 |
 |----
