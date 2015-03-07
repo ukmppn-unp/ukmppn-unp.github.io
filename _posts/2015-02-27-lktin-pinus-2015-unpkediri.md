@@ -21,34 +21,55 @@ UKM Penalaran dan Penelitian bekerjasama dengan BEM Universitas Nusantara PGRI K
 
 Abstrak berisi tidak lebih dari 500 kata dan merupakan intisari seluruh tulisan yang meliputi: latar belakang, tujuan, metode, hasil dan kesimpulan. Di bawah abstrak disertakan 3-5 kata kunci. Ditulis dengan menggunakan Ms. Word Times New Roman, ukuran 12, dan spasi tunggal.
 
+> Contoh format pengiriman abstrak : LKTIN_3 KATA JUDUL AWAL_ASAL UNIVERSITAS.pdf
+
 - Format abstrak dapat di download [disini](/files/pedoman-abstrak.pdf)
 - Formulir pendaftaran LKTIN download [disini](/files/formulir-lktin.docx)
-- Panduan LKTIN download [disini](/files/panduan-lktin-pinus.pdf)
+- Panduan LKTIN download [disini](/files/panduan-lktin-pinus-2015.pdf)
 
 Tahap awal seleksi LKTIN PINUS sesuai format abstrak, bisa dikirim ke `pinusunpkediri@gmail.com`
 
 #### Waktu Pelaksanaan
 
-1. Penerimaan Abstrak 26 Februari - 14 Maret 2015
-1. Pengumuman Abstrak yang Lolos  17 Maret 2015
-1. Penerimaan Berkas Karya Tulis Soft Copy 17-21 Maret 2015
-1. Penilaian Karya Tulis 17-23 Maret 2015
-1. Pengumuman Finalis yang lolos 22-23 Maret 2015
-1. Registrasi dan Pembayaran finalis 24 Maret 2015
-1. Grand Final 29 Maret 2015
+| No. | Kegiatan | Waktu |
+|:--------|:-------|:--------|
+| 1. | Penerimaan Abstrak   | 26 Februari - 14 Maret 2015   |
+|----
+| 2. | Pengumuman Abstrak yang Lolos   | 17 Maret 2015   |
+|----
+| 3. | Penerimaan Berkas Karya Tulis *Soft Copy*   | 17-21 Maret 2015 |
+|----
+| 4. | Penilaian Karya Tulis | 17-23 Maret 2015 |
+|----
+| 5. | Pengumuman Finalis yang lolos | 22-23 Maret 2015 |
+|----
+| 6. | Registrasi dan Pembayaran finalis | 24 Maret 2015 |
+|----
+| 7. | Grand Final | 29 Maret 2015 |
+|----
+{: rules="groups"}
+
 
 ### 2. Lomba Poster (Khusus Mahasiswa UNP Kediri)
 
 * Formulir pendaftaram poster ilmiah download [disini](/files/formulir-poster.docx)
-* Panduan poster ilmiah download [disini](https://www.dropbox.com/s/j5ltfuily54w3sn/PANDUAN%20Lomba%20Poster%20Ilmiah%20PINUS%202015(2).rar?dl=0)
+* Panduan poster ilmiah download [disini](https://www.dropbox.com/s/fxturetr70v8f39/PANDUAN%20lomba%20poster.rar?dl=0)
 
 #### Waktu Pelaksanaan
 
-1. Penerimaan berkas karya tulis *hardcopy* ke kantor UKM PPN 26 Februari- 21 Maret 2015
-1. Penilaian Karya tulis 22 - 23 Maret 2015
-1. Pengumuman Finalis 24 Maret 2015
-1. Pengiriman desain berupa Hardcopy dan softcopy poster 24-27 Maret 2015
-1. Grand Final 28 Maret 2015
+| No. | Kegiatan | Waktu |
+|:--------|:-------|:--------|
+| 1. | Penerimaan berkas karya tulis *hardcopy* ke kantor UKM PPN   | 26 26 Februari- 21 Maret 2015 |
+|----
+| 2. | Penilaian Karya tulis | 22 - 23 Maret 2015 |
+|----
+| 3. | Pengumuman Finalis | 24 Maret 2015 |
+|----
+| 4. | Pengiriman desain berupa *Hardcopy* dan *softcopy* poster | 24-27 Maret 2015 |
+|----
+| 5. | Grand Final | 28 Maret 2015 |
+|----
+{: rules="groups"}
 
 ### Contact Person
 
@@ -63,3 +84,5 @@ Tahap awal seleksi LKTIN PINUS sesuai format abstrak, bisa dikirim ke `pinusunpk
 - Fanspage: [UKM PPN](https://www.facebook.com/ukm.ppn.unpkediri)
 - G+		: [Pinus UNP Kediri](https://plus.google.com/114241305927942929604)
 
+Jika Informasi Website ini tidak update bisa mengakses alamat `http://pinusunpkdr.blogspot.com/` dahulu karena beda pengelola, jadi butuh waktu untuk mensinkronkan, tinggalkan komentar jika ada pertanyaan. Terima kasih.
+{: .notice}
