@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "UKM Penilittian dan Penalaran UNP Kediri."
+tags: [UKM, ppn, unp, kediri]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: header-ppn-2.png
+  credit: UkmPpn
+  creditlink: http://ppn.unpkediri.ac.id
 ---

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-tags: [about, Jekyll, theme, responsive]
+tags: [about, ukm.ppn.unpkediri, PGRI Kediri]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: header-ppn-2.png
+  credit: UkmPpn
+  creditlink: http://ppn.unpkediri.ac.id
 ---
 
 Overview
