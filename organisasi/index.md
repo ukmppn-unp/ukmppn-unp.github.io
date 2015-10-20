@@ -12,50 +12,44 @@ image:
 
 
 ### Ketua
-* Krisnawati
+* Triani Ningtias
 
 ### Wakil
-* Frendy Wahyu Setiawan
+* Amirrul Fikri Anna
 
 ### Sekretaris
-* Maria Ulfa 
-* Sri Ratna Dewi 
+* Ressy Medya Soffianingrum 
+* Nadya Ismi Putri T 
 
 ### Bendahara
-* Tri Yulian Widya 
-* Widya Jala L
+* Rani Dwi Andrianti 
+* Tri Wahyuningsih
 
 ### Peneletian dan Pengembangan (Litbang)
 * Koordinator :
-  - Siti Fatimatuz Z
+  - S: Indra Fauzi
 * Anggota :
-  - Rofik Masruri
-  - Reni Bekti A
-  - Abdul Rohman Azizi
-  - Arum Sanjayanti 
-  - Nurul Widayanti
+  - Moch. Yordan Adi Pratama
+  - Elva Tohari
+  - Krisnawati
+  - Amalia Nurasih 
 
-### Sumber Daya Manusia
+### Advokasi
 * Koordinator :
-  - Triani Ningtias
+  - Sri Ratna Dewi
 * Anggota :
-  - Yulfaditya W.A.S
-  - Moh. Yordan Adi Pratama
-  - Amirrul F.A
-  - Moh. Ilham Pahlevi
-  - Novian Adi Prasetya
+  - Serly Pratiwi
+  - Tri Yulian
+  - Bella Nanda P.
 
-### Komunikasi dan Informasi (kominfo)
+### Komunikasi dan Informatika (kominfo)
 * Koordinator :
-  - Navi Wahyuni
+  - Yulfaditya Wicaksana Ardias S.
 * Anggota :
-  - Indra Fauzi 
-  - Avandilia Mamor Burhanudin 
-  - Mukhamad Agus Sahrul Alwi
-  - Ahmad Basofi 
-  - Agung Dwi Mulyono 
+  - Rovita Sari
+  - Dian Mega Pratiwi 
 
-### Kemandirian dan Kewirausahaan
+### Arsip (Pengarsipan data PPN)
 * Koordinator :
   - Ressy Medya 
 * Anggota :
