@@ -19,7 +19,7 @@ image:
 
 ### Sekretaris
 * Ressy Medya Soffianingrum 
-* Nadya Ismi Putri T 
+* Nadya Ismi Putri T.
 
 ### Bendahara
 * Rani Dwi Andrianti 
@@ -51,10 +51,9 @@ image:
 
 ### Arsip (Pengarsipan data PPN)
 * Koordinator :
-  - Ressy Medya 
+  - Kusuma Wardani 
 * Anggota :
-  - Dian Mega P 
-  - Fella Dwi Agustina
-  - Moh. Ali Subkhan
-  - Lailatul Riska 
-  - Mutiara Juni Wulandari 
+  - Navi Wahyuni Widyayanti
+  - Rizaitaul Mufidah
+  - Dita Yulianti
+  
