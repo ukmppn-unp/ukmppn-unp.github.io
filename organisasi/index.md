@@ -25,7 +25,7 @@ image:
 * Rani Dwi Andrianti 
 * Tri Wahyuningsih
 
-### Peneletian dan Pengembangan (Litbang)
+### Penelitian dan Pengembangan (Litbang)
 * Koordinator :
   - Indra Fauzi
 * Anggota :
