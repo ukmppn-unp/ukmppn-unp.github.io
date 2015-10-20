@@ -27,7 +27,7 @@ image:
 
 ### Peneletian dan Pengembangan (Litbang)
 * Koordinator :
-  - S: Indra Fauzi
+  - Indra Fauzi
 * Anggota :
   - Moch. Yordan Adi Pratama
   - Elva Tohari
