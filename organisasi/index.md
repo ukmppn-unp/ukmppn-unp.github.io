@@ -32,7 +32,8 @@ image:
   - Moch. Yordan Adi Pratama
   - Elva Tohari
   - Krisnawati
-  - Amalia Nurasih 
+  - Amalia Nurasih
+  - Septi Wulandari
 
 ### Advokasi
 * Koordinator :
@@ -41,13 +42,15 @@ image:
   - Serly Pratiwi
   - Tri Yulian
   - Bella Nanda P.
+  - M. Anwar Jamaludin
 
 ### Komunikasi dan Informatika (kominfo)
 * Koordinator :
   - Yulfaditya Wicaksana Ardias S.
 * Anggota :
   - Rovita Sari
-  - Dian Mega Pratiwi 
+  - Dian Mega Pratiwi
+  - Dita Yulianti
 
 ### Arsip (Pengarsipan data PPN)
 * Koordinator :
@@ -55,5 +58,5 @@ image:
 * Anggota :
   - Navi Wahyuni Widyayanti
   - Rizaitaul Mufidah
-  - Dita Yulianti
+  - Lila Ratna Riyanti
   
