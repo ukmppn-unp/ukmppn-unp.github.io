@@ -61,4 +61,7 @@ Bukti scan Pembayaran yang dikirim ke email: `pinusunpkediri@gmail.com`
 30. Rifat Ramdhani Universitas Padjadjaran
 
 Jika Informasi Website ini tidak update bisa mengakses alamat `http://pinusunpkdr.blogspot.com/` dahulu karena beda pengelola, jadi butuh waktu untuk mensinkronkan, tinggalkan komentar jika ada pertanyaan. Terima kasih.
+
+[klik](http://ppn.unpkediri.ac.id/daftar-nama-lolos-abstrak/)
+
 {: .notice}
