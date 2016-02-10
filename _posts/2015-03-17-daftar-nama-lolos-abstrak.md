@@ -62,6 +62,6 @@ Bukti scan Pembayaran yang dikirim ke email: `pinusunpkediri@gmail.com`
 
 Jika Informasi Website ini tidak update bisa mengakses alamat `http://pinusunpkdr.blogspot.com/` dahulu karena beda pengelola, jadi butuh waktu untuk mensinkronkan, tinggalkan komentar jika ada pertanyaan. Terima kasih.
 
-![Gamabr(/images/Gz7G7rNc.jpg)
+![Gambar](../images/Gz7G7rNc.jpg)
 
 {: .notice}
