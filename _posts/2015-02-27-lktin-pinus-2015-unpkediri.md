@@ -52,7 +52,7 @@ Tahap awal seleksi LKTIN PINUS sesuai format abstrak, bisa dikirim ke `pinusunpk
 
 ### 2. Lomba Poster (Khusus Mahasiswa UNP Kediri)
 
-* Formulir pendaftaram poster ilmiah download [disini](/files/formulir-poster.docx) [dini](dl.dropbox.com/s/bgptk0inry6edz0/logo-ppn.jpg?dl=0)
+* Formulir pendaftaram poster ilmiah download [disini](/files/formulir-poster.docx) [dini](dl.dropbox.com/s/bgptk0inry6edz0/logo-ppn.jpg?dl=2)
 * Panduan poster ilmiah download [disini](https://www.dropbox.com/s/fxturetr70v8f39/PANDUAN%20lomba%20poster.rar?dl=0)
 
 #### Waktu Pelaksanaan
