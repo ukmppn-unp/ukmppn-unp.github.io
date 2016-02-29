@@ -14,9 +14,9 @@ comments: true
 
 UKM Penalaran dan Penelitian bekerjasama dengan BEM Universitas Nusantara PGRI Kediri Mengundang seluruh mahasiswa Indonesia untuk memberdayakan penelitian dan pengabdian berupa lomba-lomba tingkat nasional.
 
-Onsonar merupakan singkatan dari Poiner of Reasoning and Research Universitas Nusantara PGRI Kediri. Tema Karya Tulis Ilmiah adalah Menumbuhkan ***Kreatifitas*** Mahasiswa Melalui ***Ide Kreatif*** Berbasis ***Lokal Material*** untuk Mewujudkan ***Kemandirian*** dan ***Karakter Bangsa***. 
+Onsonar merupakan singkatan dari Pioneer of Reasoning and Research Universitas Nusantara PGRI Kediri. Tema Karya Tulis Ilmiah adalah Menumbuhkan ***Kreatifitas*** Mahasiswa Melalui ***Ide Kreatif*** Berbasis ***Lokal Material*** untuk Mewujudkan ***Kemandirian*** dan ***Karakter Bangsa***. 
 
-## Sub Tema Karya Tulis Ilmiah
+### Sub Tema Karya Tulis Ilmiah
 
 * Penelitian Ilmiah Berbasis Lokal Material
 * Pendidikan Berbasis Lokal Material 
@@ -25,7 +25,7 @@ Onsonar merupakan singkatan dari Poiner of Reasoning and Research Universitas Nu
 * Teknologi Berbasis Lokal Material
 
 
-## Format Abstrak
+### Format Abstrak
 
 Disusun maksimal 250 kata yang sesuai dengan isi naskah karya tulis mulai dari latar belakang, tujuan metode, hasil dan pembahasan. disertakan kata kunci 3-5 kata dan dicetak miring dan bold.
 
@@ -35,14 +35,14 @@ Disusun maksimal 250 kata yang sesuai dengan isi naskah karya tulis mulai dari l
 - Formulir pendaftaran LKTIN download [disini](/files/onsonar/Fromulir_Pendaftaran.doc)
 - Panduan LKTIN download [disini](/files/onsonar/Panduan-jadi-2.pdf)
 
-## Ketentuan LKTIN
+### Ketentuan LKTIN
 
 * Wajib mengisi formulir pendaftaran apabila mengirim abstrak sebagai seleksi awal yang terdiri dari 1 tim (max 3 orang) dalam 1 perguruan tinggi.
 * Setelah melakukan pengiriman abstrak diharapkan konfirmasi via sms dengan format: nama-ketua_judul-karya_asal-perguruan-tingi ke no 085608224833(Amalia)/085851506001(UKMPPN).
 * Peserta yang lolos seleksi abstrak wajib mengirim paper dalam bentuk karya ilmiah (soft copy) melalui email `onsonarppn@gmail.com`.
 * 
 
-## Jadwal Kegiatan
+### Jadwal Kegiatan
 
 | No. | Kegiatan | Waktu |
 |:--------|:-------|:--------|
@@ -59,7 +59,7 @@ Disusun maksimal 250 kata yang sesuai dengan isi naskah karya tulis mulai dari l
 {: rules="groups"}
 
 
-## Registrasi
+### Registrasi
 * Pendaftaran Abstrak Gratis
 * Lolos Seleksi Abstrak 50 Besar dikenai biaya Rp. 75.000 @ karya
 * Pembayaran dapat dilakukan langsung pada kantor UKMPPN (Kompleks Ormawa Lemawa UKMPPN) Kampus I
