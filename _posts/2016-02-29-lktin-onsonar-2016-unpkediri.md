@@ -31,7 +31,7 @@ Disusun maksimal 250 kata yang sesuai dengan isi naskah karya tulis mulai dari l
 
 > Contoh format pengiriman abstrak : LKTIN_3-KATA-JUDUL-AWAL_ASAL-UNIVERSITAS.pdf
 
-- Format penulisan paper dapat di download [disini](/files/onsonar/pFormat-Penulisan-Paper.doc)
+- Format penulisan paper dapat di download [disini](/files/onsonar/Format-Penulisan-Paper.doc)
 - Formulir pendaftaran LKTIN download [disini](/files/onsonar/Fromulir_Pendaftaran.doc)
 - Panduan LKTIN download [disini](/files/onsonar/Panduan-jadi-2.pdf)
 
