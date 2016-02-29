@@ -50,7 +50,7 @@ Disusun maksimal 250 kata yang sesuai dengan isi naskah karya tulis mulai dari l
 |----
 | 2. | Pengumuman Lolos   | 3-9 April 2016 |
 |----
-| 3. | Penerimaan Full Paper   | 10-219 April 2016 |
+| 3. | Penerimaan Full Paper   | 10-19 April 2016 |
 |----
 | 4. | Pengumuman 10 Besar | 25-30 April 2016 |
 |----
