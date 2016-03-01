@@ -12,7 +12,7 @@ comments: true
 
 ![Poster](../files/onsonar/PosterLKTIN4.jpg)
 
-UKM Penalaran dan Penelitian bekerjasama dengan BEM Universitas Nusantara PGRI Kediri Mengundang seluruh mahasiswa Indonesia untuk memberdayakan penelitian dan pengabdian berupa lomba-lomba tingkat nasional.
+UKM Penalaran dan Penelitian Nusantara PGRI Kediri Mengundang seluruh mahasiswa Indonesia untuk memberdayakan penelitian dan pengabdian berupa lomba-lomba tingkat nasional.
 
 Onsonar merupakan singkatan dari Pioneer of Reasoning and Research Universitas Nusantara PGRI Kediri. Tema Karya Tulis Ilmiah adalah Menumbuhkan ***Kreatifitas*** Mahasiswa Melalui ***Ide Kreatif*** Berbasis ***Lokal Material*** untuk Mewujudkan ***Kemandirian*** dan ***Karakter Bangsa***. 
 
@@ -31,6 +31,7 @@ Disusun maksimal 250 kata yang sesuai dengan isi naskah karya tulis mulai dari l
 
 > Contoh format pengiriman abstrak : LKTIN_3-KATA-JUDUL-AWAL_ASAL-UNIVERSITAS.pdf
 
+- Format penulisan abstrak dapat di download [disini](/files/onsonar/format-abstrak-onsonar-2016.PDF)
 - Format penulisan paper dapat di download [disini](/files/onsonar/Format-Penulisan-Paper.doc)
 - Formulir pendaftaran LKTIN download [disini](/files/onsonar/Fromulir_Pendaftaran.doc)
 - Panduan LKTIN download [disini](/files/onsonar/Panduan-jadi-2.pdf)
