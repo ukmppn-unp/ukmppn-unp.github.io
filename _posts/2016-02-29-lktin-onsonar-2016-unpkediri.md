@@ -10,7 +10,7 @@ comments: true
 
 # Pendaftaran Gratis
 
-![Poster](../files/onsonar/Poster LKTIN 4.jpg)
+![Poster](../files/onsonar/Poster LKTIN 4 New.jpg)
 
 UKM Penalaran dan Penelitian Nusantara PGRI Kediri Mengundang seluruh mahasiswa Indonesia untuk memberdayakan penelitian dan pengabdian berupa lomba-lomba tingkat nasional.
 
