@@ -34,7 +34,7 @@ Disusun maksimal 250 kata yang sesuai dengan isi naskah karya tulis mulai dari l
 - Format penulisan abstrak dapat di download [disini](/files/onsonar/Format.Penulisan.Abstrak.2016.Onsonar.pdf)
 - Format penulisan paper dapat di download [disini](/files/onsonar/Format-Penulisan-Paper.doc)
 - Formulir pendaftaran LKTIN download [disini](/files/onsonar/FORMULIR.PENDAFTARAN.doc)
-- Panduan LKTIN download [disini](/files/onsonar/Panduan-jadi-2.pdf)
+- Panduan LKTIN download [disini](/files/onsonar/Panduan31maret.pdf)
 
 ### Ketentuan LKTIN
 
