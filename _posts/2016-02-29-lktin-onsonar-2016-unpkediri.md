@@ -22,7 +22,7 @@ Onsonar merupakan singkatan dari Pioneer of Reasoning and Research Universitas N
 * Pendidikan Berbasis Lokal Material 
 * Ekonomi Kreatif Berbasis Lokal Material
 * Pengabdian Masyarakat Berbasis Lokal Material
-* Teknologi Berbasis Lokal Material
+* Teknologi Berbasis Lokal Material 
 
 
 ### Format Abstrak
