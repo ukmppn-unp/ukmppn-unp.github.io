@@ -47,7 +47,7 @@ Disusun maksimal 250 kata yang sesuai dengan isi naskah karya tulis mulai dari l
 
 | No. | Kegiatan | Waktu |
 |:--------|:-------|:--------|
-| 1. | Penerimaan Abstrak   | 1-26 Maret 2016 |
+| 1. | Penerimaan Abstrak   | 1-31 Maret 2016 |
 |----
 | 2. | Pengumuman Lolos   | 3-9 April 2016 |
 |----
