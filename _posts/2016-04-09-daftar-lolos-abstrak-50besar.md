@@ -23,7 +23,7 @@ NB: Terakhir registrasi pengumpulan fullpaper tanggal 19 April 2016
 - Bank BRI 	 	: **0430539349** 
 - Atas nama  	: an *Amalia Nurasih* 
 
-Setelah melakukan pembayaran peserta wajib regristrasi dengan mengirim sms ke no **085608224833** (Amalia) dengan format: 
+Setelah melakukan pembayaran peserta wajib registrasi dengan mengirim sms ke no **085608224833** (Amalia) dengan format: 
 
 > LKTIN_Nama Lengkap/Ketua_Asal Universitas_3 Kata Pertama judul LKTI. 
 
@@ -38,5 +38,7 @@ Bukti scan Pembayaran yang dikirim ke email: `onsonarppn@gmail.com`
 
 atau bisa didownload dalam format PDF 
 [klik di sini](/files/onsonar/Document1.pdf)
+
+
 
 Admin PPN
