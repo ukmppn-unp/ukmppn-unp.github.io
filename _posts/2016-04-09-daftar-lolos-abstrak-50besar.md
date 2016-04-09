@@ -35,6 +35,7 @@ Bukti scan Pembayaran yang dikirim ke email: `onsonarppn@gmail.com`
 ![Daftar](../images/lolos abstrak 3.PNG)
 ![Daftar](../images/lolos abstrak 4.PNG)
 
-atau bisa didownload dalam format PDF [klik di sini](/files/onsonar/Document1.pdf)
+atau bisa didownload dalam format PDF 
+[klik di sini](/files/onsonar/Document1.pdf)
 
 Admin PPN
