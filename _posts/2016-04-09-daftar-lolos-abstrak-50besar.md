@@ -13,7 +13,7 @@ comments: true
 
 Salam semangat... untuk seluruh peserta LKTIN ONSONAR 2016 
 Terdapat 120 karya tulis yang masuk dari berbagai perguruan tinggi di Indonesia. Namun hanya 50 karya yang masuk lolos seleksi abstrak.
-SELAMAT bagi karya tulis yang lolos seleksi abstrak 50 besar  . Dimohon  untuk segera registrasi dan mengirimkan fullpaper (Sesuai sistematika) untuk seleksi lolos finalis 10 besar. Terima kasih.
+SELAMAT bagi karya tulis yang lolos seleksi abstrak 50 besar :) :) . Dimohon  untuk segera registrasi dan mengirimkan fullpaper (Sesuai sistematika) untuk seleksi lolos finalis 10 besar. Terima kasih.
 NB: Terakhir registrasi pengumpulan fullpaper tanggal 19 April 2016 
 
 ### Pembayaran registrasi peserta lolos Abstrak :
@@ -34,3 +34,7 @@ Bukti scan Pembayaran yang dikirim ke email: `onsonarppn@gmail.com`
 ![Daftar](../images/lolos abstrak 2.PNG)
 ![Daftar](../images/lolos abstrak 3.PNG)
 ![Daftar](../images/lolos abstrak 4.PNG)
+
+atau bisa didownload dalam format PDF [klik di sini](/files/onsonar/Document1.pdf)
+
+Admin PPN
