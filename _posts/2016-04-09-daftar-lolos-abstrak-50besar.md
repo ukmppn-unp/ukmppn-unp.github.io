@@ -4,7 +4,7 @@ title:  "Daftar Nama Lolos Abstrak"
 excerpt: " Setelah kami melakukan penyeleksian dengan ketat Peserta LKTIN ONSONAR 2016, sekitar ratusan abstrak yang masuk. Kami 
 memutuskan bahwa ada 50 peserta yang lolos seleksi abstrak, bagi yang belum beruntung jangan putus asa dan terus berkarya."
 modified: 
-author: admin_pinus
+author: admin_onsonar
 tags: [pinus, nusantara, lktin, lolos, abstrak]
 comments: true
 ---
