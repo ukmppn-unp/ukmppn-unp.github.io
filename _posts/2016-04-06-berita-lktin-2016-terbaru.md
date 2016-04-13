@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pengumuman Terbaru LKTIN 2016 Onsonar UNP Kediri"
+title:  "Tanggal Pengumuman Lolos Abstrak"
 excerpt: "Mahasiswa merupakan produk dari pendidikan tinggi yang menghasilkan lulusan yang mempunyai sikap kecendekiawanan. Sikap tersebut meliputi sikap sebagai penemu, pemadu, penerap, serta sebagai pengembang IPTEKS. Untuk itu, mahasiswa yang merupakan salah satu kelompok masyarakat ilmiah harus mempunyai ciri kehidupan akademis yang dinamis."
 modified: 
 author: admin_onsonar
