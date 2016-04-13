@@ -7,7 +7,7 @@ author: admin_onsonar
 tags: [onsonar, nusantara, lktin, kediri]
 comments: true
 ---
-# Berita Terbaru
+## Berita Terbaru - Perpanjangan
 
 Tanggal penerimaan Abstrak kegiatan Onsonar (Pioneer of Reasoning and Research) yang diselenggarakan Universitas Nusantara PGRI Kediri.
 Diundur hingga tanggal 31 Maret 2016 mendatang.
