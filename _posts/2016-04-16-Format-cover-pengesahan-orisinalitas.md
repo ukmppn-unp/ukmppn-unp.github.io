@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "Format Cover LKTIN 0nsonar 2016"
 excerpt: "Setelah kami melakukan penyeleksian dengan ketat Peserta LKTIN ONSONAR 2016, sekitar ratusan abstrak yang masuk. Kami 
