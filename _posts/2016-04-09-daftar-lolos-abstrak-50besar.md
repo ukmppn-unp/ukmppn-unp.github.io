@@ -20,7 +20,7 @@ NB: Terakhir registrasi pengumpulan fullpaper tanggal 19 April 2016
 ### Pembayaran registrasi peserta lolos Abstrak :
 
 - Besar 		: **Rp. 75.000** 
-- Bank BRI 	 	: **0430539349** 
+- Bank BNI 	 	: **0430539349** 
 - Atas nama  	: an *Amalia Nurasih* 
 
 Setelah melakukan pembayaran peserta wajib registrasi dengan mengirim sms ke no **085608224833** (Amalia) dengan format: 
