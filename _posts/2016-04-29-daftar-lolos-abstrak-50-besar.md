@@ -10,8 +10,9 @@ comments: true
 ---
 # Berita Terbaru
 Untuk tim peserta LKTIN ONSONAR 2016 yang lolos abstrak 50 besar.
-Pengumuman Lolos Fullpaper 10 besar akan diberitahukan pada tanggal 30 April 2016 Pukul 18.00 WIB.
-Tentang pembagian sertifikat lolos abstrak 50 besar akan diunggah di web ini tanggal 10 Mei 2016.
+Pengumuman Lolos Fullpaper 10 besar akan diberitahukan pada tanggal 30 April 2016 Pukul 18.00 WIB
+Tentang pembagian sertifikat lolos abstrak 50 besar akan diunggah di web ini tanggal 10 Mei 2016
+
 So stay tune for next update...
 
 
