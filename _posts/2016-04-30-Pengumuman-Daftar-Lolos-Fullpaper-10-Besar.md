@@ -19,7 +19,7 @@ Bagi tim lolos abstrak 50 besar yang telah melakukan registrasi akan diberikan s
 ![Daftar](../images/Daftar Lolos Fullpaper 10 Besar.JPG)
 
 atau bisa didownload dalam format PDF 
-klik [di sini](/files/Lolos 10 Besar Fullpaper.pdf)
+klik [di sini](/files/onsonar/Lolos 10 Besar Fullpaper.pdf)
 
 Hadiah jutaan rupiah menantimu...!!!
 
