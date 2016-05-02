@@ -7,7 +7,7 @@ author: admin_onsonar
 tags: [onsonar, nusantara, lktin, kediri]
 comments: true
 ---
-# Pembagian Sertifikat Lolos Abstrak 50 Besar LKTIN ONSONAR 2016
+# Sertifikat Lolos Abstrak 50 Besar LKTIN ONSONAR 2016
 
 Bagi tim yang telah Lolos Abstrak 50 Besar dan melakukan registrasi akan diberikan Sertifikat dari panitia LKTIN ONSONAR 2016.
 Silahkan diunduh berdasarkan Nama Ketua tim dan asal universitas:
@@ -38,6 +38,8 @@ Silahkan diunduh berdasarkan Nama Ketua tim dan asal universitas:
 # Pemberitahuan Tim Lolos Fullpaper 10 Besar LKTIN ONSONAR 2016
 Bagi tim peserta yang Lolos Fullpaper 10 Besar, admin akan memberikan Tata Tertib dan Rundown acara kegiatan GRAND FINAL yang diadakan tanggal 14 Mei 2016 di Hall Kampus 2 UNP KEDIRI.
 Silahkan di unduh [disini](/files/onsonar/Tata Tertib dan Rundown Acara LKTIN ONSONAR UNP KEDIRI 2016.rar)
+
+
 
 Jika ada kesalahan dalam penulisan atau link unduh yang mati, bisa memberikan komentar pada post ini.
 
