@@ -17,7 +17,7 @@ Untuk profil penginapannya bisa didownload [disini](/files/onsonar/List Penginap
 
 Berikut kami membagikan link Google Maps untuk petunjuk lokasi menuju Kampus UNP PGRI Kediri.
 
-Jika berawal dari Surabaya (Bandara Juanda) bisa dilihat link dibawah ini.
+- Jika berawal dari Surabaya (Bandara Juanda) bisa dilihat link dibawah ini.
 
 https://www.google.co.id/maps/dir/Juanda+Airport,+Surabaya/Ikip+PGRI+Kediri,+Jalan+KH.+Ahmad+Dahlan,+Mojoroto,+Kota+Kediri,+Jawa+Timur/@-7.5705004,112.1239105,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x2dd7e50b3bf959b9:0xc0ff7c58786318e8!2m2!1d112.7872891!2d-7.3788851!1m5!1m1!1s0x2e785729b234e955:0x376d16cb3654499f!2m2!1d112.002!2d-7.80018?hl=id
 
