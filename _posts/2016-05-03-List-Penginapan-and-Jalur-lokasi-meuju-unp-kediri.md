@@ -40,9 +40,17 @@ https://www.google.co.id/maps/dir/Universitas+Diponegoro,+Tembalang,+Kota+Semara
 
 
 
+
+
+
+
 Titik penjemputan panitia berada di Stasiun Kereta Kota Kediri dan Terminal Bis Tamanan Kota kediri.
 Jika peserta telah sampai pada titik penjemputan bisa menghubungi LO masing-masing tim.
 Untuk daftar LO Tim Finalis akan di post kan besok hari rabu, jadi stay tune...
+
+
+
+
 
 Jika ada link unduh yang mati atau link google maps yang rusak, bisa memberikan komentar pada post ini.
 
