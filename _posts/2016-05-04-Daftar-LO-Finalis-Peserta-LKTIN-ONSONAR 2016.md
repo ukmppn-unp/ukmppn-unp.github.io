@@ -17,7 +17,7 @@ Saat penjemputan dan saat ingin menanyakan sesuatu bisa melalui LO atau pendampi
 
 Atau bisa diunduh dalam format PDF [di sini](/files/onsonar/DAFTAR PENAGGUNGJAWAB PENJEMPUTAN.pdf)
 
-Untuk konfirmasi tempat menginap dan juga tiba di titik penjemputan bisa langsung ke LO masing-masing tim.
+Untuk konfirmasi tempat menginap dan saat telah tiba di titik penjemputan bisa langsung ke LO masing-masing tim.
 
 
 
