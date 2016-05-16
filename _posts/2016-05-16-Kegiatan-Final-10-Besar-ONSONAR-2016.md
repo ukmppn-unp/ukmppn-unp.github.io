@@ -11,13 +11,13 @@ comments: true
 Kali ini admin akan mengumumkan hasil Grand Final kemarin yang diadakan di Kampus 1 UNP Kediri tanggal 14 Mei 2016.
 
 Juara 1 : Tim Agyl Muhammad dari Institut Teknologi Sepuluh Nopember
-![Juara 1](../images/IMG_0627)
+![Juara 1](../images/IMG_0627.JPG)
 
 Juara 2 : Tim Devy Setyana dari Universitas Negeri Brawijaya Malang
-![Juara 2](../images/IMG_0588)
+![Juara 2](../images/IMG_0588.JPG)
 
 Juara 3 : Tim Rosydha Ulfa dari Universitas Diponegoro Semarang
-![Juara 3](../images/IMG_0631)
+![Juara 3](../images/IMG_0631.JPG)
 
 
 Dokumentasi Hasil Kegiatan Grand Final kemarin akan diposting besok, jadi tetap stay tune.
@@ -29,9 +29,9 @@ Salam ONSONAR..
 
 Salam Berbinar..
 
-![Doc](../images/_DSC3871)
+![Doc](../images/_DSC3871.JPG)
 
-![Doc](../images/IMG_0601)
+![Doc](../images/IMG_0601.JPG)
 
 Terima Kasih
 Admin PPN
