@@ -10,6 +10,7 @@ comments: true
 
 Baiklah kali ini admin akan membagikan link untuk mengunduh dokumentasi LKTIN ONSONAR yang diadakan 14 Mei 2016.
 Sebelumnya admin minta maaf karena adanya kendala dalam pengupload Foto dokumentasi ini sehingga baru bisa membagikan link nya hari ini.
+
 Admin membaginya menjadi dua file berformat RAR yaitu saat presentasi dan Field Trip.
 Silahkan mengunduh nya dibawah ini:
 
