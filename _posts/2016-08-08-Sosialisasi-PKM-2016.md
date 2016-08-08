@@ -18,18 +18,14 @@ tujuan dari acara ini adalah mengenalkan apa itu Program Kreatifitas Mahasiswa (
 kegiatanmu nanti dapat lolos dalam seleksi tingkat nasional dari pihak DIKTI.
 
 Kegiatan ini dilaksanakan pada tanggal 12 September 2016 di Hall Kampus 2 UNP Kediri.
-
 Acara dimulai pukul 13.00 - selesai.
 
 ![Brosur](../files/Re-Organisasi/Brosur PKM.jpg)
 
 Berikut Admin bagi juga file-file guna menunjang pembuatan proposal PKM kamu:
 1. Tim PKM yang lolos tahun 2014. klik [di sini](/files/Re-Organisasi/SOSIALISASI PKM TAHUN 2015/daftar peserta PKM yang lolos Pendanaan Tahun 2014.pdf)
- 
 2. Tim Pemenang PKM tahun 2015. klik [di sini](/files/Re-Organisasi/SOSIALISASI PKM TAHUN 2015/lampiran-Pemenang-pemenang-PKM-tahun-anggaran-20151.pdf)
- 
 3. Pedoman Pembuatan PKM 2015. klik [di sini](/files/Re-Organisasi/SOSIALISASI PKM TAHUN 2015/Pedoman PKM Tahun 2015.pdf)
-
 4. Panduan Penggunaan SIMLITABMAS guna pengajuan Tim dan Proposal PKM. klik [di sini](/files/Re-Organisasi/SOSIALISASI PKM TAHUN 2015/PKM Panduan Mahasiswa.pdf)
 
 
@@ -39,7 +35,6 @@ UKM PPN juga membuka klinik tentang PKM guna mempermudah kamu dalam mengatasi ma
 
 Jam Buka - Pagi : 09.00 - 12.00
          - Sore : 13.00 - 16.00
-         
 Bertempat di Komplek ORMAWA dan LEMAWA lantai 1.
 
 ## Contact Person
